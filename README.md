@@ -20,7 +20,7 @@
 
 First, fork the repository. Then, go into your favorite terminal.
 
-    git clone git@github.com:YOUR_USERNAME/game.git
+    git clone git@github.com:TheGithubLord/game.git
     cd game
     npm install
     npm run serve
